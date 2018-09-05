@@ -1,0 +1,15 @@
+{
+  "name": "rethinkdbtestnodejs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "leuducanh",
+  "license": "ISC",
+  "dependencies": {
+    "async": "^2.6.1",
+    "rethinkdb": "^2.3.3"
+  }
+}
